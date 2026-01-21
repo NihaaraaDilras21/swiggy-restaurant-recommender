@@ -116,3 +116,32 @@ pip install pandas scikit-learn streamlit
 
 2️⃣ Run the Streamlit app
 
+streamlit run app.py
+
+The application will open in your browser at:
+
+http://localhost:8501
+
+🚀 Features
+
+Interactive UI using Streamlit
+
+Real-time restaurant recommendations
+
+Simple and explainable ML approach
+
+Beginner-friendly project structure
+
+📊 Future Improvements
+
+Add location-based distance filtering
+
+Include restaurant popularity weighting
+
+Deploy the app online (Streamlit Cloud)
+
+Improve UI styling
+
+👩‍💻 Author
+
+Nihaaraa Dilras
