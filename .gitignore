@@ -1,0 +1,9 @@
+# Ignore large data files
+data/encoded_data.csv
+data/swiggy.csv
+
+# Optional: ignore cleaned data
+data/cleaned_data.csv
+
+# Ignore cache
+__pycache__/
